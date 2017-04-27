@@ -48,8 +48,8 @@ a.snake-link:hover {
     margin-top:-40px;
     margin-left:-150px;
     display:none;
-    background-color:black;
-    color:white;
+    background-color:orange;
+    color:green;
 }
 
 .snake-panel-component {
